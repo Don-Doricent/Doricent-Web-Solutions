@@ -1,6 +1,8 @@
 # Doricent Web Solutions
 
-![Portfolio Demo](./assets/myPortfolio.gif)
+<p align="center">
+  <img src="./assets/myPortfolio.gif" alt="Portfolio Demo" width="640"/>
+</p>
 
 Web dev studio focused on clean, fast, conversion-ready sites for local businesses and creators.
 
@@ -42,7 +44,7 @@ A few active builds and in-progress demos in this repo:
 - **Clay & Petal** — Handmade pottery storefront and gallery  
   Code: [/clay-and-petal](./clay-and-petal)
 
-- **Córdoba-Art** — Artist portfolio with commissions info  
+- **Cordoba-Art** — Artist portfolio with commissions info  
   Code: [/cordoba-art](./cordoba-art)
 
 - **Spectral Barber Shop** — Local service site with booking CTA  
