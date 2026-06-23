@@ -948,3 +948,10 @@ h5.widget-title {
 .post-navigation:focus svg {
   fill: var(--primary-color);
 }
+
+
+.logo {
+  height: 4em;
+  width: auto;
+  vertical-align: middle;
+}
